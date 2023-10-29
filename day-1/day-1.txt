@@ -1,0 +1,13 @@
+# HOW WEBSITE WORKS ?
+
+    * CLIENT SERVER MODEL :
+        When the client computer sends a request for data to the server through the internet, the server accepts the requested process and deliver the data packets requested back to the client. Clients do not share any of their resources. Examples of Client-Server Model are Email, World Wide Web, etc.
+
+
+# BUILDING BLOCK OF WEBSITE =>
+
+    * HTML : The structure and content of a webpage
+    * CSS : Styles and design the appearance of the webpage
+    * JS : Adds interactivity dynamic events on the webpage
+
+
