@@ -1,0 +1,54 @@
+# HOW TO USE CSS IN HTML ?
+
+    * 3 ways :
+        i. Inline CSS : Style applied directly to an HTML element using the style attribute.
+        ii. Internal CSS : Styles defined within the <style> tag within the HTML document's <head>.
+        iii. External CSS : Styles stored in separate .css files linked to the HTML document using the <link> element.
+
+
+# BASIC CSS SPECIFICITY =>
+
+    * Specificity of Inline CSS is more than Internal CSS and External CSS.
+    * Specificity of Internal CSS is more than External CSS but less than Inline Css.
+    * Specificity of External CSS is less than Internal CSS and Inline CSS.
+    * Specificity means priority, CSS property will be applied as their priority/Specificity.
+    * INLINE CSS > INTERNAL CSS > EXTERNAL CSS.
+
+
+# TYPES OF SELECTORS =>
+
+    * CSS Tag/Element Selector :
+        h1{
+            color: red;
+            font-size: 32px;
+        }
+    * HTML/CSS Class Selector :
+        i. HTML :
+            <section>
+                <button class="btn">Learn With Pranjal</button>
+            </section>
+        ii. CSS :
+            .btn{
+                color: blue;
+                font-weight: bold;
+            }
+    * HTML/CSS Id Selector :
+        i. HTML :
+            <section>
+                <button id="btn">Learn With Pranjal</button>
+            </section>
+        ii. CSS :
+            #btn{
+                color: blue;
+                font-weight: bold;
+            }
+    * HTML/CSS Pseudo Class :
+        i. HTML :
+            <section>
+                <button id="btn">Learn With Pranjal</button>
+            </section>
+        ii. CSS :
+            #btn:hover{
+                color: blue;
+                font-weight: bold;
+            }

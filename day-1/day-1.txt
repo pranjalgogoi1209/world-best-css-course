@@ -6,8 +6,51 @@
 
 # BUILDING BLOCK OF WEBSITE =>
 
-    * HTML : The structure and content of a webpage
-    * CSS : Styles and design the appearance of the webpage
-    * JS : Adds interactivity dynamic events on the webpage
+    * HTML : The structure and content of a webpage.
+    * CSS : Styles and design the appearance of the webpage.
+    * JS : Adds interactivity dynamic events on the webpage.
 
 
+# CSS =>
+
+    * Cascading Style Sheets (CSS) is a stylesheet language used to describe the look & presentation of a document written in HTML or XML. It defines how elements are displayed on a web page.
+    * CSS makes websites visually appealing and user-friendly.
+
+
+# CREATORS & MAINTENANCE OF CSS ?
+
+    * CSS was created by a group of individuals known as the World Wide Web Consortium (W3C).
+    * Primary contributors include Hokon Wium Lie and Bert Bos.
+    * CSS standards and specifications are maintained by the W3C.
+    * A community of web developers, designers, and browser vendors also contribute to its evolution.
+    * Regular updates and new versions ensure CSS remains relevant and adaptable to changing web design needs.
+
+
+# CSS HISTORY (VERSION) =>
+
+    CSS to CSS3 :
+        i. CSS1 (1996) : Limited properties and selectors.
+        ii. CSS2 (1998) : CSS2 was released and work on CSS3 began.
+        iii. CSS 2.1 (2011) : CSS2.1 was released, which fixed the errors found in CSS2.
+
+
+# CSS RULE STRUCTURE =>
+
+    * A CSS rule consists of a selector and a declaration block.
+    * Declarations are used to define the style properties for the selected elements.
+    * Each declaration consists of a property and a value.
+    eg: 
+        selector {
+            /* Declaration Block*/
+
+            property: value;
+            /* More properties and values */
+        }
+
+
+# CSS - SYNTAX =>
+
+    p {
+            color: blue;
+            font-weight: bold;
+    }
