@@ -42,12 +42,8 @@
                 color: blue;
                 font-weight: bold;
             }
-    * HTML/CSS Pseudo Class :
-        i. HTML :
-            <section>
-                <button id="btn">Learn With Pranjal</button>
-            </section>
-        ii. CSS :
+    * CSS Pseudo Class :
+        CSS :
             #btn:hover{
                 color: blue;
                 font-weight: bold;
