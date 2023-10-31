@@ -1,0 +1,43 @@
+# CSS COMMENT =>
+
+    * Comments are used to explain the code, and may help when you edit the source code at a later date. Comments are ignored by browsers.
+    * Single line comment :  
+        /* This is Comment */
+    * Multi line comment :
+        /*This is
+        Multi line
+        Comment*/
+
+
+# COLORS IN CSS =>
+
+    * RED : 
+        #FF 00 00
+        255, 0, 0
+    * GREEN :
+        #00 FF 00
+        0, 255, 0
+    * BLUE :
+        #00 00 FF
+        0, 0, 255
+    * Hexadecimal color :
+        A hexadecimal color is specified with #RRGGBB, where the RR (red), GG (green) and BB(blue) hexadecimal integers specify the components of the color.
+    * RGB color :
+        A RGB color is specified with rgb(RRR, GGG, BBB), where the RRR (red), GGG (green) and BB (blue) integers between 0 - 255, specify the components of the color.
+    * RBGA color : 
+        RGBA is similar to RGB but includes an alpha channel for opacity control (alpha : 0 to 1).
+    * HSL color :
+        HSL (Hue, Saturation, Lightness) values provide a way to specify colors based on their hue, saturation, and lightness.
+
+
+# GRAPHIC DESIGNER - CSS =>
+
+    * Hue : A pure color.
+    * Tint : A pure color with just white added.
+    * Shade : A pure color with just black added.
+    * Tone : A pure color with just gray aded.
+
+
+# CSS COLOR FACT => 
+
+    * When you see six-digit hexadecimal codes in the format #RRGGBB, where each pair represents the intensity of the red (RR), green (GG), and blue (BB) components, and the digits are the same (e.g., #333 OR #CCC), it creates shades of gray.
