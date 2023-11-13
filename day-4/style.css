@@ -1,0 +1,16 @@
+body {
+  width: 100%;
+  height: 100vh;
+  /* modern white color, use this color instead of normal white color */
+  background-color: #f0f0f0;
+  background-image: url("https://i.pinimg.com/originals/f5/e0/96/f5e096f3ea0938e731246e0fade8a523.jpg"),
+    url("https://th.bing.com/th/id/OIP.n_ET2kHSYUQy86qRA0O0dAHaE8?pid=ImgDet&rs=1");
+  background-repeat: no-repeat;
+  /* background-size: contain; */
+  background-size: cover;
+  /* background-size: 100% 100%; */
+  background-position: center;
+
+  /* css3 */
+  background-blend-mode: hard-light;
+}

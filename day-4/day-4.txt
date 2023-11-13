@@ -1,0 +1,8 @@
+# BACKGROUND PROPERTIES - CSS =>
+
+    i. background-color
+    ii. background-image
+    iii. background-repeat
+    iv. background-position
+    v. background-size
+    vi. background-attachment

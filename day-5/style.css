@@ -1,0 +1,79 @@
+body {
+  background-color: #f0f0f0;
+}
+
+/* for pexels */
+
+/* h1 {
+  font-size: 54px;
+  color: purple;
+}
+
+p {
+  font-size: 36px;
+}
+
+li {
+  font-size: 44px;
+} */
+
+/* for percentages 100% = 16px */
+/* 1px = 6.253% */
+
+/* h1 {
+  font-size: 337.5%;
+  color: orangered;
+}
+
+p {
+  font-size: 225%;
+}
+
+li {
+  font-size: 275%;
+} */
+
+/* for 1em = 16px */
+
+/* h1 {
+  font-size: 3.375em;
+}
+
+p {
+  font-size: 2.25em;
+}
+
+li {
+  font-size: 2.75em;
+}*/
+
+/* now for 1em = 10px, li's font-size will change */
+
+/* .parent {
+  font-size: 10px;
+}  */
+
+/* for 1 rem = we can specify the font size of our will */
+/* we need 1rem = 10px, it makes our life easy */
+
+html {
+  /* 10px = 62.53% */
+  font-size: 62.53%;
+  /* at the time of adding media query, we just need to change the font-size of html in percentage */
+}
+
+h1 {
+  font-size: 5.4rem;
+}
+
+p {
+  font-size: 3.6rem;
+}
+
+li {
+  font-size: 4.4rem;
+}
+/* now li's font size will not change */
+/* .parent {
+  font-size: 20px;
+} */

@@ -41,3 +41,7 @@
 # CSS COLOR FACT => 
 
     * When you see six-digit hexadecimal codes in the format #RRGGBB, where each pair represents the intensity of the red (RR), green (GG), and blue (BB) components, and the digits are the same (e.g., #333 OR #CCC), it creates shades of gray.
+
+# https://maketintsandshades.com/ =>
+
+    Use the above website to get any shade of any color.

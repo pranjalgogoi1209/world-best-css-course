@@ -1,0 +1,14 @@
+#ABSOLUTE LENGTHS =>
+
+    * The absolute length units are fixed and a length expressed in any of these will appear as exactly that size.
+        i. Pexels (px)
+        ii. Inches (in)
+        iii. Points (pt)
+
+
+#RELATIVE LENGTHS => 
+
+    * Relative length units specify a length relative to another length property. Relative length units scale better between different rendering medium.
+        i. em
+        ii. Root em (rem)
+        iii. Percentage (%)
