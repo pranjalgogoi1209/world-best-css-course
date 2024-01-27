@@ -1,3 +1,54 @@
+(00.00.00 - 00.17.28)
+
+# BASIC CSS => 
+
+    What is CSS?
+    CSS rule structure
+    How to use CSS in html?
+    Types of Selectors?
+    Comments in CSS
+    Colors & Background Prop.
+    CSS Units & Dimensions
+    Fonts & Text Properties
+    CSS Box Model
+    Border, Padding & Margin
+    CSS Display, Floats etc..
+    CSS Positions & Z-index
+    CSS Overflow
+
+
+# ADVANCE CSS => 
+
+    CSS3 Gradients
+    CSS3 Shadows & Filters
+    CSS Combinators
+    CSS Pseudo Class & Element
+    CSS3 Column Layout
+    CSS3 Flexbox & Grid
+    CSS3 Animations , Transform
+    Transitions & Perspective
+    CSS Specificity & Prefixes
+    CSS Media & Cont. Queries
+    CSS BEM, SMACSS etc..
+    CSS3 Variables, Nesting etc..
+    New CSS3 Features & Bonus
+
+# PRO LEVEL CSS => 
+
+    50+ Interview Questions
+    30+ Tips & Tricks
+    Complete Notes + Codes
+    100+ Animated Slides
+    10+ Animated Projects
+    PROJECT – Complete
+    Multipage WEBSITE Using
+    HTML & CSS💖
+    CSS Performance and
+    Optimization
+    SEO + Testing + LIV E
+    HOSTING (free & Paid)
+
+
 # HOW WEBSITE WORKS ?
 
     * CLIENT SERVER MODEL :
@@ -53,4 +104,4 @@
     p {
             color: blue;
             font-weight: bold;
-    }
+    }   
