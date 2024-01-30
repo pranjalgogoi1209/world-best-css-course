@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Poor+Story&display=swap");
+
+@font-face {
+  font-family: "gogoi-font";
+  src: url("./Mastery\ Kingdom.otf") format("OpenType");
+}
+
+body {
+  display: grid;
+  place-items: center;
+  font-family: "Poor Story", system-ui;
+}
+
+.hero {
+  width: 50%;
+}
+
+h1 {
+  font-size: 4vw;
+  /* font-weight: 900; */
+  /* font-style: oblique; */
+  font-style: italic;
+  font-variant: small-caps;
+  font-family: "gogoi-font", "Poor Story", system-ui;
+}
+
+p {
+  font-size: 2vw;
+  font-weight: 500;
+}
