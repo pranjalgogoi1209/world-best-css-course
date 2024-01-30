@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      body {
+        display: grid;
+        place-items: center;
+      }
+      .hero {
+        width: 50%;
+        /* text-align: right; */
+      }
+      .hero h1 {
+        text-align: center;
+        /* text-decoration-line: overline; */
+        text-decoration-line: underline;
+        text-decoration-color: orangered;
+        text-decoration-thickness: 1px;
+        text-decoration-style: wavy;
+        text-transform: uppercase;
+        text-shadow: -2px -2px 2px rgba(255, 0, 0, 0.5);
+      }
+      .hero p {
+        text-align: justify;
+        letter-spacing: 0.7px;
+        word-spacing: 4px;
+        line-height: 25px;
+        /* white-space: nowrap; */
+      }
+      /* drop-caps */
+      /* psuedo element */
+      .hero p::first-letter {
+        text-transform: uppercase;
+        font-size: 4vw;
+        font-weight: 900;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="hero">
+      <h1>Heading</h1>
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste, tempora
+        qui. Laborum culpa eius provident vel harum, corporis omnis delectus
+        incidunt assumenda ad quod sunt qui ducimus, dolorem quia! Aspernatur
+        ducimus eveniet, atque est beatae dolores consectetur fugit labore
+        accusantium?
+      </p>
+    </div>
+  </body>
+</html>
