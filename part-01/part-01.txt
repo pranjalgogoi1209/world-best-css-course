@@ -30,8 +30,9 @@
     CSS Specificity & Prefixes
     CSS Media & Cont. Queries
     CSS BEM, SMACSS etc..
-    CSS3 Variables, Nesting etc..
+    CSS3 V ariables, Nesting etc..
     New CSS3 Features & Bonus
+
 
 # PRO LEVEL CSS => 
 
@@ -42,7 +43,7 @@
     10+ Animated Projects
     PROJECT – Complete
     Multipage WEBSITE Using
-    HTML & CSS💖
+    HTML & CSS
     CSS Performance and
     Optimization
     SEO + Testing + LIV E
@@ -70,11 +71,11 @@
 
 # CREATORS & MAINTENANCE OF CSS ?
 
-    * CSS was created by a group of individuals known as the World Wide Web Consortium (W3C).
-    * Primary contributors include Hokon Wium Lie and Bert Bos.
-    * CSS standards and specifications are maintained by the W3C.
-    * A community of web developers, designers, and browser vendors also contribute to its evolution.
-    * Regular updates and new versions ensure CSS remains relevant and adaptable to changing web design needs.
+    • CSS was created by a group of individuals known as the World Wide Web Consortium (W3C).
+    • Primary contributors include Håkon Wium Lie and Bert Bos.
+    • CSS standards and specifications are maintained by the W3C.
+    • A community of web developers, designers, and browser vendors also contribute to its evolution.
+    • Regular updates and new versions ensure CSS remains relevant and adaptable to changing web design needs
 
 
 # CSS HISTORY (VERSION) =>
